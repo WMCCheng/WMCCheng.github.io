@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Biography"
+title: "Academic Profile"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
 
-I am currently pursuing a Ph.D. in **Intelligent Science and Engineering** at **Northwestern Polytechnical University**. My research interests primarily include **Multi-Agent Reinforcement Learning (MARL)**, **Fuzzy Systems**, and robust cooperative decision-making under uncertain and noisy feedback. In particular, I am interested in investigating how positive incentive noise and reward perturbations influence exploration, coordination, learning stability, and policy robustness in cooperative multi-agent systems.
+I am currently pursuing a Ph.D. in **Intelligent Science and Engineering** at **Northwestern Polytechnical University**. My research interests primarily include **Multi-Agent Reinforcement Learning (MARL)**, **Fuzzy Systems**, and **robust cooperative decision-making under uncertain and noisy feedback**. In particular, I am interested in investigating how positive incentive noise and reward perturbations influence exploration, coordination, learning stability, and policy robustness in cooperative multi-agent systems.
 
 From 2022 to 2025, I completed my master's studies in **Computer Technology** at **Ocean University of China**. During this period, my research focused on **Intelligent Control**, **Computer Vision**, **Visual Simultaneous Localization and Mapping (Visual SLAM)**, and **3D Reconstruction**. 
 
@@ -28,11 +28,7 @@ Working with underwater platforms provided me with valuable experience in dealin
 
 During my doctoral studies, I have continued to participate in research projects involving multi-agent cooperation, reinforcement learning, fuzzy systems, and intelligent decision-making under uncertainty. My current work examines the relationships among reward design, exploration behavior, coordination mechanisms, and policy robustness. I am particularly interested in developing methods that improve learning efficiency and cooperative performance while retaining clear scientific motivation and reliable experimental evidence.
 
-These experiences have gradually shaped my broader research objective: to establish meaningful connections among intelligent perception, autonomous control, and collaborative learning, and to develop autonomous systems capable of making reliable decisions and coordinating effectively in complex environments.
-
 ## Research Perspective
-
-I believe that progress in intelligent systems requires a careful balance between methodological innovation, rigorous experimentation, and practical relevance. My goal is to conduct research that provides clear scientific insight, reproducible empirical evidence, and potential value for real-world autonomous systems.
 
 I value open academic discussion, careful scientific inquiry, and constructive collaboration. I warmly welcome opportunities to exchange ideas and collaborate with researchers, students, and engineers working in multi-agent reinforcement learning, intelligent control, fuzzy systems, computer vision, marine robotics, and related areas.
 
